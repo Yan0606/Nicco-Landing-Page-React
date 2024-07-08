@@ -26,7 +26,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank">Levar Agora</a>
+          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank" rel="noreferrer">Levar Agora</a>
         </div>
       </div>
 
@@ -50,7 +50,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank">Levar Agora</a>        </div>
+          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank" rel="noreferrer">Levar Agora</a>        </div>
       </div>
 
       <div className="card">
@@ -73,7 +73,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank">Levar Agora</a>        </div>
+          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank" rel="noreferrer">Levar Agora</a>        </div>
       </div>
       <div className="card">
         <div className="card__img">
@@ -95,7 +95,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank">Levar Agora</a>
+          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank" rel="noreferrer">Levar Agora</a>
         </div>
       </div>
 
@@ -119,7 +119,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank">Levar Agora</a>
+          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank" rel="noreferrer">Levar Agora</a>
         </div>
       </div>
 
@@ -143,7 +143,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank">Levar Agora</a>
+          <a href="https://web.whatsapp.com/send?phone=18996538506" target="_blank" rel="noreferrer">Levar Agora</a>
         </div>
       </div>
     </div>
