@@ -26,7 +26,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="#">Levar Agora</a>
+          <a>Levar Agora</a>
         </div>
       </div>
 
@@ -50,7 +50,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="#">Levar Agora</a>
+          <a>Levar Agora</a>
         </div>
       </div>
 
@@ -74,7 +74,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="#">Levar Agora</a>
+          <a>Levar Agora</a>
         </div>
       </div>
       <div className="card">
@@ -97,7 +97,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="#">Levar Agora</a>
+          <a>Levar Agora</a>
         </div>
       </div>
 
@@ -121,7 +121,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="#">Levar Agora</a>
+          <a>Levar Agora</a>
         </div>
       </div>
 
@@ -145,7 +145,7 @@ const Work = () => {
             <span></span>
             <span></span>
           </div>
-          <a href="#">Levar Agora</a>
+          <a>Levar Agora</a>
         </div>
       </div>
     </div>
