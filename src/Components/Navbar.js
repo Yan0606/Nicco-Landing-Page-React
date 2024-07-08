@@ -35,9 +35,9 @@ const Navbar = () => {
         <img src={Logo} alt="nicco" />
       </div>
       <div className="navbar-links-container">
-        <a>Home</a>
-        <a>Sobre Nós</a>
-        <a>Produtos</a>
+        <a href="./Home">Home</a>
+        <a href="./About">Sobre Nós</a>
+        <a href="./Work">Produtos</a>
       </div>
       <div className="navbar-menu-container">
         <HiOutlineBars3 onClick={() => setOpenMenu(true)} />
