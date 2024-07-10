@@ -90,7 +90,7 @@ nav {
   transition: transform 0.5s ease-in-out, scale 0.5s ease-in-out;
 }
 .home-image-section:hover{
-  transform: rotate(-55deg) scale(1.4);
+  transform: rotate(-25deg) scale(1.3);
 }
 .home-text-section {
   flex: 1;
@@ -152,7 +152,7 @@ nav {
   background-color: rgb(35, 120, 65);
 }
 .about-section-container {
-  margin-top: 20rem;
+  margin-top: 10rem;
   position: relative;
   display: flex;
   align-items: center;
