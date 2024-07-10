@@ -28,3 +28,8 @@ Siga os passos abaixo para configurar e executar o projeto:
 3. Inicie o projeto:
    ```bash
    npm start
+
+
+4. Link do Projeto:
+   ```bash
+   https://nicco.netlify.app
